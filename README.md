@@ -2,7 +2,8 @@
 
 Requirements:
 - Angular CLI: 16.2.5
-- Node: 20.2.0 
+- Node: 20.2.0
+- Mongodb: 7.0.1
 - Package Manager: npm 9.6.6
 - OS: win32 x64
 - Angular: 16.2.8
