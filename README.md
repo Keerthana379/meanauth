@@ -1,11 +1,11 @@
 # meanauth
 
 Requirements:
-Angular CLI: 16.2.5
-Node: 20.2.0 
-Package Manager: npm 9.6.6
-OS: win32 x64
-Angular: 16.2.8
+- Angular CLI: 16.2.5
+- Node: 20.2.0 
+- Package Manager: npm 9.6.6
+- OS: win32 x64
+- Angular: 16.2.8
 
 Steps to Follow to clone the Repo:
 
