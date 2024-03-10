@@ -13,7 +13,7 @@ Requirements:
 Clone the project
 
 ```bash
-      git clone https://github.com/Keerthana379/meanauth.git
+  git clone https://github.com/Keerthana379/meanauth.git
 ```
 
 Go to the project directory
