@@ -59,4 +59,4 @@ if port is not available by any chance you can change the port number in app.js 
 Here are the few screenshots of the website,
 
 **Home Page**
-![homePage]()
+![homePage](/images/home.png)
