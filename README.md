@@ -8,26 +8,55 @@ Requirements:
 - OS: win32 x64
 - Angular: 16.2.8
 
-Steps to Follow to clone the Repo:
+## Installation
 
-Step1 - clone the branch using following command in command prompt
+Clone the project
+
+```bash
       git clone https://github.com/Keerthana379/meanauth.git
+```
 
-Step2 - open the branch in any code editor for example vs-code, type following in the cmd
-                  code .
+Go to the project directory
 
-Step3 - Install node modules using the following command in the ternimal of the editor
-              npm i or npm install
+```bash
+  cd meanauth
+```
 
-Step4 - To run the backend server run app.js file, use the following command
-                    node app.js 
-                    or
-                    npm start
+Install dependencies
+```bash
+  npm i
+```
+or
+
+```bash
+  npm install
+```
+
+Run the backend server
+```bash
+  node app.js 
+```
+or
+
+```bash
+  npm start
+```
                     
-Step5 - To run the front-end need to be in the angular-src folder use the following command
-                    ng serve
-                    
-Step6 - Now you can open the app successfully using the following url
+Run the front-end
+```bash
+  cd  angular-src
+```
+or
+
+```bash
+  ng serve
+```
+Open the app using the following url
                   http://localhost:4200
 
 if port is not available by any chance you can change the port number in app.js file where there's a constant port you can change it as 4080 or ports which are available on your pc
+
+Here are the few screenshots of the website,
+
+**Home Page**
+![homePage]()
